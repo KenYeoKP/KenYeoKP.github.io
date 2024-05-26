@@ -4,15 +4,25 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello Visitor, welcome!👋
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Data has always accompanied me through my career, and after 20 years, I am finally delving into the realm of analytics and visualisation.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+🔧 Technologies & Tools  
+Languages: R, Python, SQL  
+Software: IBM SPSS
 
+💼 Professional Focus  
+I seek to put my knowledge and experience in R, Python, SQL, and IBM SPSS to practical use, aiming to overcome business challenges and improve processes. I am an inquisitive and exploratory analyst with a keen interest in dissecting and exploring complex data to uncover meaningful stories.
 
-[jekyll-organization]: https://github.com/jekyll
+🌱 Current Interests  
+Analytics: Applying advanced analytical techniques to drive business insights.  
+Visualization: Creating compelling visual stories from complex datasets.
+
+Feel free to explore my repositories and reach out if you would like to collaborate on any exciting ideas!
+
+For more details, check me out at [Linkedin](https://www.linkedin.com/in/kenyeokp/).
+
+and remember “without data, you’re just another person with an opinion” ~ Edwards Deming
+
+💬 Fun fact: in my free time, I make beer🍺 and then I consume.
