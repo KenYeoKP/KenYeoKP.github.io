@@ -23,6 +23,6 @@ Feel free to explore my repositories and reach out if you would like to collabor
 
 For more details, check me out at [Linkedin](https://www.linkedin.com/in/kenyeokp/).
 
-**and remember “without data, you’re just another person with an opinion” ~ Edwards Deming**
+__and remember “without data, you’re just another person with an opinion” ~ Edwards Deming__
 
 💬 Fun fact: in my free time, I make beer🍺 and then I consume.
