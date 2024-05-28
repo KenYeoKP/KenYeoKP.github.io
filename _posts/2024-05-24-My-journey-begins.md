@@ -5,3 +5,5 @@ While I did not see myself as a data analyst in the early days of my career, ana
 After spending more than a decade in the horse racing industry, I often receive queries if I can pick winners. Yes, I did create a forecasting methodology, but my reply is always: “If I can, then I will be on the other side of the fence, betting and not working for the Club”. Make sense? For me and many other punters, predicting winners is more of an ego thing than anything else.
 
 As a mid-career switcher, I have a shorter runway than others. Nevertheless, I endeavour to continue learning and applying my skillset to make positive changes around me, so let’s go…
+
+<a style="font-weight:bold" href="https://KenYeoKP.github.io">Return to posts and repositories</a>
