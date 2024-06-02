@@ -1,4 +1,4 @@
-#### Turning Zoom VTT files into insightful visualisation: A data wrangling project, SPEAK UP
+#### Turning Zoom VTT files into insightful visualisation: A Data Wrangling Project, SPEAK UP
 
 I'm excited to share a recent data wrangling project I worked on showcasing the power of integrating Python, SQL, and R for transforming raw data into meaningful visual insights. The project focused on converting Zoom's VTT (video text track) files from a recorded lecture into a visual representation using R to determine how much each student contributed (airtime) during the class.
 
