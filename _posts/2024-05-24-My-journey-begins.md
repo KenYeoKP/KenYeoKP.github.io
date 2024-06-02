@@ -1,4 +1,4 @@
-My journey in data analytics didn’t just begin recently. It started two weeks after June 5th, 2023, when the announcement came about the end of horse racing heritage in Singapore. The last race is set for October 5th, 2024. I spent those two weeks staring into the void before deciding to move on and perhaps get academically qualified in a more commercially viable field.
+My journey in data analytics didn’t just begin recently. It started two weeks after 5th June, 2023, when the announcement came about the end of horse racing heritage in Singapore. The last race is set for October 5th, 2024. I spent those two weeks staring into the void before deciding to move on and perhaps get academically qualified in a more commercially viable field.
 
 I never saw myself as a data analyst in the early days of my career, but analyzing data was always part of the job. Back then, my team and I used MS Excel to process massive amounts of maintenance data. For anyone who remembers computers powered by Intel’s 486, you'd know that generating a pivot table with a click of the mouse could take 20 minutes. Those were the times when we enjoyed our tea breaks!
 
