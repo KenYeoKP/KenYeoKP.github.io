@@ -25,4 +25,3 @@ For more details, check me out at [Linkedin](https://www.linkedin.com/in/kenyeok
 
 *and remember “without data, you’re just another person with an opinion” ~ Edwards Deming*
 
-💬 Fun fact: in my free time, I make beer🍺 and then I consume.
