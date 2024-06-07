@@ -9,3 +9,5 @@ The journey began with extracting the data from the VTT file. Using Python, to p
 With the data in a table format, it became possible to calculate the length of time (in milliseconds) associated with each entry in the vtt table. Finally, the processed data was imported into R for visualisation. Using R’s powerful ‘ggplot2’ library, I created a horizontal bar chart highlighting the accumulated airtime of each student who spoke up in class.
 
 <a  style="font-weight:bold" href="https://KenYeoKP.github.io/mystuff/3-Data-Wrangling/">Data Wrangling</a>
+
+![](https://github.com/KenYeoKP/mystuff/blob/main/3-Data-Wrangling/Rplot01.jpeg)
