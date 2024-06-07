@@ -13,7 +13,7 @@ Languages: R, Python, SQL
 Software: IBM SPSS
 
 ### 💼 Professional Focus  
-I seek to put my knowledge and experience in R, Python, SQL, and IBM SPSS to practical use, aiming to overcome business challenges and improve processes. I am an inquisitive and exploratory analyst with a keen interest in dissecting and exploring complex data to uncover meaningful stories.
+I seek to put my knowledge and experience in R, Python, SQL, IBM SPSS and CRISP-DM to practical use, aiming to overcome business challenges and improve processes. I am an inquisitive and exploratory analyst with a keen interest in dissecting and exploring complex data to uncover meaningful stories.
 
 ### 🌱 Current Interests  
 Analytics: Applying advanced analytical techniques to drive business insights.  
