@@ -12,4 +12,4 @@ This software is incredibly versatile and sophisticated, capable of performing a
  <a  style="font-weight:bold" href="https://KenYeoKP.github.io/mystuff/2-SPSS-KMeans/">K-Means</a>
 
 ![](1-SPSS-Apriori/output.png) | 
-![](2-SPSS-KMeans/kmeansoutput.png)
+![](mystuff/2-SPSS-KMeans/kmeansoutput.png)
