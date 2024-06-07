@@ -7,3 +7,5 @@ Singapore’s public housing, also known as HDB flats, has gained a global reput
 As the clock ticks down towards the end of a lease, how does one determine the appropriate price of a flat based on its completion date or remaining lease? Let me share some insights using data obtained from data.gov.sg between January 2021 and February 2024.
 
 <a  style="font-weight:bold" href="https://KenYeoKP.github.io/mystuff/4-HDB-Visualisation/">Data Visualisation</a>
+
+![](https://github.com/KenYeoKP/mystuff/blob/main/4-HDB-Visualisation/exec.jpeg)
