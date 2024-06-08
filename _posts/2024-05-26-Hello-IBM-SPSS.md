@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello IBM SPSS"
+title: Hello IBM SPSS, with Apriori and K-means
 categories: SPSS
 ---
 
