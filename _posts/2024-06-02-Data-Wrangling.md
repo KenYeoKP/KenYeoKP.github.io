@@ -1,3 +1,9 @@
+---
+layout: post
+title: Data wrangling from video text track (.vtt) format
+category: Data Wrangling
+---
+
 ### Turning Zoom VTT files into insightful visualisation
 
 #### *A Data Wrangling Project*
