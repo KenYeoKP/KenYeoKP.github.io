@@ -1,6 +1,7 @@
 ---
 layout: post
 title: HDB resale prices
+categories: Data Visualisation
 ---
 
 ### Uncovering trends in HDB resale market
