@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My journey begins...
+title: my journey begins...
 ---
 
 My journey in data analytics didn’t just begin recently. It started two weeks after 5th June, 2023, when the announcement came about the end of horse racing heritage in Singapore. The last race is set for 5th October, 2024. I spent those two weeks staring into the void before deciding to move on and perhaps get academically qualified in a more commercially viable field.
