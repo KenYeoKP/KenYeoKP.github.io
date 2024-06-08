@@ -11,7 +11,5 @@ This software is incredibly versatile and sophisticated, capable of performing a
  <a  style="font-weight:bold" href="https://KenYeoKP.github.io/mystuff/1-SPSS-Apriori/">Apriori algorithm</a> | 
  <a  style="font-weight:bold" href="https://KenYeoKP.github.io/mystuff/2-SPSS-KMeans/">K-means</a>
 
-Apriori algorithm  |  K-means
-:-------------------------:|:-------------------------:
 ![](https://github.com/KenYeoKP/KenYeoKP.github.io/blob/master/_posts/output.png) | ![](https://github.com/KenYeoKP/mystuff/blob/main/2-SPSS-KMeans/kmeansoutput.png)
 
