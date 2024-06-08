@@ -1,3 +1,8 @@
+---
+layout: post
+title: HDB resale prices
+---
+
 ### Uncovering trends in HDB resale market
 
 #### *A Visualisation Project*
