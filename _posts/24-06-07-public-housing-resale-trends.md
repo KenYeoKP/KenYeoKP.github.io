@@ -14,4 +14,5 @@ As the clock ticks down towards the end of a lease, how does one determine the a
 
 <a  style="font-weight:bold" href="https://KenYeoKP.github.io/mystuff/4-HDB-Visualisation/">Data Visualisation</a>
 
-![](https://github.com/KenYeoKP/mystuff/blob/main/4-HDB-Visualisation/exec.jpeg)
+![exec](https://github.com/KenYeoKP/KenYeoKP.github.io/assets/167163077/e6ecd17a-5df0-4af7-8579-12e483cec37b)
+
