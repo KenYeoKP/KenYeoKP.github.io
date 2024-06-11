@@ -13,5 +13,5 @@ This software is incredibly versatile and sophisticated, capable of performing a
 
 Apriori algorithm     | K-means               
 --------------------- | --------------------- 
-![](https://github.com/KenYeoKP/mystuff/blob/main/1-SPSS-Apriori/output.png) | ![kmeansoutput](https://github.com/KenYeoKP/KenYeoKP.github.io/assets/167163077/1619ffa1-b481-4197-87f8-d78f20b7733e)
+<img width="512" alt="output" src="https://github.com/KenYeoKP/KenYeoKP.github.io/assets/167163077/7cab55af-9890-4e61-abe5-516231205979"> | ![kmeansoutput](https://github.com/KenYeoKP/KenYeoKP.github.io/assets/167163077/1619ffa1-b481-4197-87f8-d78f20b7733e)
 
