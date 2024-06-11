@@ -16,4 +16,6 @@ With the data in a table format, it became possible to calculate the length of t
 
 <a  style="font-weight:bold" href="https://KenYeoKP.github.io/mystuff/3-Data-Wrangling/">Data Wrangling</a>
 
-![](https://github.com/KenYeoKP/mystuff/blob/main/3-Data-Wrangling/Rplot01.jpeg)
+![Rplot02](https://github.com/KenYeoKP/KenYeoKP.github.io/assets/167163077/c70065fa-50bc-4a0a-ba26-18ec35ab9847)
+
+
