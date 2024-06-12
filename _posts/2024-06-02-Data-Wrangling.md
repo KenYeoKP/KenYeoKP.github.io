@@ -18,7 +18,3 @@ With the data in a table format, it became possible to calculate the length of t
 
 ![Rplot03](https://github.com/KenYeoKP/KenYeoKP.github.io/assets/167163077/e00d5c3c-ef06-4520-beb9-16655e7edf3b)
 
-
-![Rplot02](https://github.com/KenYeoKP/KenYeoKP.github.io/assets/167163077/c70065fa-50bc-4a0a-ba26-18ec35ab9847)
-
-
