@@ -16,4 +16,4 @@ Throughout the modeling process, hyperparameter tuning was conducted to optimise
 
 <a  style="font-weight:bold" href="https://kenyeokp.github.io/mystuff/5-Predicting%20Gamers%20Engagement%20Levels/">Predicting Gamer Engagement Levels</a>
 
-![Rplot03](https://github.com/KenYeoKP/KenYeoKP.github.io/assets/167163077/e00d5c3c-ef06-4520-beb9-16655e7edf3b)
+![Rplot03]("C:\Users\kenye\OneDrive\SUSS\ANL588 Project\Applied Project\Multivariate_ScatterPlot.png")
